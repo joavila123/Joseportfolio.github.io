@@ -1,6 +1,7 @@
 # SQL Filter 
+In this document I showcase and explain the use of SQL in an assignment I did during my coursera course.
 
-
+SQL Filters.docx
 
 ## Header 2
 
