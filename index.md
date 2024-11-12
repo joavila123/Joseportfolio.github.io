@@ -1,7 +1,9 @@
-# SQL Filter 
-In this document I showcase and explain the use of SQL in an assignment I did during my coursera course.
+# SQL Filters:
+In this project the organization is working to make their system more secure. It is my objective to ensure the system is safe, investigate all potential security issues, and update employee computers as needed. I applied filters to SQL queries to get specific information on login attempts and employee machines. I used two different tables, login attempts and employees. I used the AND, OR, and NOT operators to filter for the specific information needed for each task. I also used LIKE and the percentage sign (%) wildcard to filter for patterns.
+![SQL Screenshot 1](https://github.com/user-attachments/assets/4fa05503-0035-40da-ad71-ca87e9df50c8)
 
-SQL Filters.docx
+![SQL Screenshot 2](https://github.com/user-attachments/assets/da9d5d01-9e10-460d-866b-9cd031082eae)
+
 
 ## Header 2
 
