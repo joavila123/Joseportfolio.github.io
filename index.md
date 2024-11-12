@@ -5,11 +5,14 @@ In this project the organization is working to make their system more secure. It
 ![SQL Screenshot 2](https://github.com/user-attachments/assets/da9d5d01-9e10-460d-866b-9cd031082eae)
 
 
-## Header 2
+## SIEM and cyber threat map:
+In this project I used Microsoft Azure and its many features to creat a SIEM. Created virtual machine in the cloud which was the honeypot and made it quite vulnerable to the internet. Also, utilized a powershell script and free IP geolocation API to monitor/log attacks that came from various IP address across the world and displayed it in a threat map. The data displayed how many times an attack came from a specific IP address along with the country of origin from which the attack came from.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+![SEIM_map](https://github.com/user-attachments/assets/e037f8f2-ae82-41ed-a7e5-df06687caa9c)
+
+![Logs_for vm](https://github.com/user-attachments/assets/14ab5638-faa3-4ecd-9771-0b444d55146a)
+
+![VM_event viewer](https://github.com/user-attachments/assets/2451ae64-cbb9-4507-9352-2de83fe6d27f)
 
 ### Header 3
 
