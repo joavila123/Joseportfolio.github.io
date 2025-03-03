@@ -22,4 +22,8 @@ CISCO Packet Tracer was used for this project to construct a virtual simple netw
 
 ![Firewall](https://github.com/user-attachments/assets/b0dbdcf2-fe8e-46fe-9eb9-0a65c68b874c)
 
+## Keylogger
 
+Keylogger project was used to capture the keystrokes of an individauals keyboard. The code was constructed using python and kept in mind that several special keys had to be accounted for such as spacebar. special characters, shift, and num lock. The goal of this code was to in theory think like a hacker and be able to deploy this codeo onto someone's machine and collect individual's passwords. 
+
+![keylogger](https://github.com/user-attachments/assets/645a0ac8-8230-4794-8d7d-aa7579d6d9e0)
